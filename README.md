@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Olu-Francis
-- 👀 I’m interested in ethnical hacking
-- 🌱 I’m currently learning ADSE
-- 💞️ I’m looking to collaborate on Gray hat hacking
+- 👀 I’m interested in full stack development
+- 🌱 I’m currently learning web development
+- 💞️ I’m looking to collaborate on projects related to web development
 - 📫 How to reach me @08128824386
 
 <!---
